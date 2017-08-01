@@ -10,9 +10,13 @@ Many companies or clients demands full stack developer, so that they can build b
 Get high Salary.
 
 
+<br />
+<br />
 
-## :pushpin: Roadmap to become a Full-Stack Web Developer with Ruby on Rails
+***
+<h2 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h2>
 
+***
 
 
 ## Front-End
@@ -25,7 +29,8 @@ Get high Salary.
   * jQuery
   * Framework: ReactJS, Angular or Vue.js, EmberJS
 * UI/UX
-  
+
+
 ## Back-End
 * Language: Ruby 
   * Best resources to learn Ruby
@@ -35,6 +40,7 @@ Get high Salary.
 
 * Unit test: Rspec
   * Essential resources to learn Rspec
+
 
 ## Databases
 * Relational Databases:
@@ -46,6 +52,7 @@ Get high Salary.
   * MongoDB
   * Redis
   * Memcached
+
 
 ## Servers
 * Hosts: 
@@ -61,6 +68,7 @@ Get high Salary.
   * Unicorn
 
 * Deployment, Measurement vs Monitoring
+
 
 ## Architecture, Refactoring
 * Rails Principles
@@ -96,3 +104,4 @@ Get high Salary.
   * Solr
   * Sphinx
 
+<br />
