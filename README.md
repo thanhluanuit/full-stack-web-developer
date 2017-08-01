@@ -2,12 +2,12 @@
 
 ### What is the Full Stack Web Developer ?
 
-Full Stack Web developer is who works familiar with both front-end and back-end, also servers and database.
+> Full Stack Web developer is who works familiar with both front-end and back-end, also servers and database.
 
 ### Why should you become a Full Stack Web Developer ?
-You can build entire a web application, without having to rely on someone else to build the back-end or front-end. 
-Many companies or clients demands full stack developer, so that they can build better products with less cost.
-Get high Salary.
+* You can build entire a web application, without having to rely on someone else. 
+* Many companies or clients demands full stack developer, so that they can build better products with less cost.
+* Get high Salary.
 
 
 <br />
