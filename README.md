@@ -14,7 +14,7 @@ Get high Salary.
 <br />
 
 ***
-<h2 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h2>
+<h3 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h3>
 
 ***
 
