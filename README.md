@@ -1,4 +1,5 @@
-# :fire: Roadmap to become a Full-Stack Web Developer
+<h2 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h2>
+</br>
 
 ## What is the Full-Stack Web Developer ?
 
@@ -15,10 +16,6 @@
 * Find a community of support as StackOverflow.
 * Summarize and document what you learn, it’s very useful to review in the future.
 * Make a habit to read books, blogs and practice every day.
-
-<br />
-
-<h2 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h2>
 
 ![Roadmap](/roadmap_full_stack_developer.png)
 
