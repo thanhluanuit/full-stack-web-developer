@@ -1,5 +1,7 @@
-# Roadmap to become a Full Stack Web Developer with Ruby on Rails
-</br>
+# Full Stack Web Developer with Ruby on Rails
+
+> Roadmap to become a full-stack web developer with Ruby on Rails
+
 
 ## What is the Full-stack web developer?
 
