@@ -1,25 +1,27 @@
-<h2 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h2>
+# Roadmap to become a Full Stack Web Developer with Ruby on Rails
 </br>
 
-## What is the Full-Stack Web Developer ?
+## What is the Full-stack web developer?
 
-> Full Stack Web developer is who works familiar with both front-end and back-end, also servers and database.
+Full-stack web developer is who works familiar with both front-end and back-end, also servers and database.
 
-## Why should you become a Full-Stack Web Developer ?
+## Why should you become a Full-stack web developer?
 * You can build entire a web application, without having to rely on someone else. 
-* Many companies or clients demands full stack developer, so that they can build better products with less cost.
+* Many companies or clients demands full stack developers, so that they can build better products with less cost.
 * Get high Salary.
 
-## How to become a Full-Stack Developer?
+## How to become a Full-stack web developer?
 * Have a plan: You need to lay out the roadmap of things you'd like to learn.
 * Build stuff: Don’t just read, build simple apps by applying whatever you have learned.
 * Find a community of support as StackOverflow.
 * Summarize and document what you learn, it’s very useful to review in the future.
 * Make a habit to read books, blogs and practice every day.
 
+## Roadmap
+
 ![Roadmap](/roadmap_full_stack_developer.png)
 
-## Front-End
+## Front-end
 * HTML
 * CSS
   * Responsive Web Design
@@ -31,7 +33,7 @@
 * UI/UX
 
 
-## Back-End
+## Back-end
 * Language: Ruby 
   * [Ruby Programming Tutorial](https://github.com/thanhluanuit/ruby-tutorial)
   * [Best Resources to learn Ruby](http://luanotes.com/posts/10-best-resources-to-learn-ruby)
