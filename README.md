@@ -17,7 +17,7 @@
 * Make a habit to read books, blogs and practice every day.
 
 <br />
-***
+
 <h2 align="center"><b> Roadmap to become a Full-Stack Web Developer with Ruby on Rails </b> </h2>
 
 ![Roadmap](/roadmap_full_stack_developer.png)
@@ -36,18 +36,19 @@
 
 ## Back-End
 * Language: Ruby 
-  * Best resources to learn Ruby
+  * [Ruby Programming Tutorial](https://github.com/thanhluanuit/ruby-tutorial)
+  * [Best Resources to learn Ruby](http://luanotes.com/posts/10-best-resources-to-learn-ruby)
 
 * Framework: Ruby on Rails
-  * Best resources to learn Ruby on Rails
+  * [Best Resources to learn Ruby on Rails](http://luanotes.com/posts/15-best-resources-for-learning-ruby-on-rails)
 
 * Unit test: Rspec
-  * Essential resources to learn Rspec
+  * [Essential Resources to learn Rspec](http://luanotes.com/posts/essential-resources-to-learn-rspec)
 
 
 ## Databases
 * Relational Databases:
-  * PostgreSQL
+  * [PostgreSQL](http://luanotes.com/posts/how-to-install-back-up-and-restore-postgresql)
   * MySQL
   * MSSQL
 
@@ -79,10 +80,10 @@
   * Don’t Repeat Yourself (DRY)
   * RESTful
   
-* SOLID Principles
+* [SOLID Principles](https://robots.thoughtbot.com/back-to-basics-solid)
 * Design Patterns  
   * MVC
-  * Form Object / Policy Object ( Active Records - Model). More here
+  * Form Object / Policy Object / Query Object ( Active Records - Model)
   * Decorator / Presenter / Facade (View)
   * Service Object (Controller)
   * Strategy / Composite patterns 
@@ -93,7 +94,7 @@
 * Database Query Optimization
 
 
-## Others
+## Deeper
 * Caching
 
 * Security
@@ -106,5 +107,22 @@
   * Elastic Search
   * Solr
   * Sphinx
+
+
+## Best Resources
+
+- [Clean Code](http://luanotes.com/posts/book-review-clean-code-robert-c-martin-series): A Handbook of Agile Software Craftsmanship
+
+- [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670): A Practical Handbook of Software Construction
+
+- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124): A Brain-Friendly Guide
+
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X): From Journeyman to Master
+
+- [High Performance Web Sites](http://stevesouders.com/hpws/rules.php): Rules for Faster-Loading Web Sites
+
+- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758): A Common Sense Approach to Web Usability
+
+- [Soft Skills](https://www.amazon.com/gp/product/1617292397): The Software Developer's Life Manual
 
 <br />
