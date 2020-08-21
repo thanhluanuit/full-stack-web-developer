@@ -38,18 +38,18 @@ Full-stack web developer is who works familiar with both front-end and back-end,
 ## Back-end
 * Language: Ruby 
   * [Ruby Programming Tutorial](https://github.com/thanhluanuit/ruby-tutorial)
-  * [Best Resources to learn Ruby](http://luanotes.com/posts/10-best-resources-to-learn-ruby)
+  * [Best Resources to learn Ruby](https://web.archive.org/web/20171014053140/http://www.luanotes.com/posts/15-best-resources-for-learning-ruby-on-rails)
 
 * Framework: Ruby on Rails
-  * [Best Resources to learn Ruby on Rails](http://luanotes.com/posts/15-best-resources-for-learning-ruby-on-rails)
+  * [Best Resources to learn Ruby on Rails](https://web.archive.org/web/20171014053140/http://www.luanotes.com/posts/15-best-resources-for-learning-ruby-on-rails)
 
 * Unit test: Rspec
-  * [Essential Resources to learn Rspec](http://luanotes.com/posts/essential-resources-to-learn-rspec)
+  * [Essential Resources to learn Rspec](https://web.archive.org/web/20170813192716/http://luanotes.com/posts/essential-resources-to-learn-rspec)
 
 
 ## Databases
 * Relational Databases:
-  * [PostgreSQL](http://luanotes.com/posts/how-to-install-back-up-and-restore-postgresql)
+  * [PostgreSQL](https://web.archive.org/web/20170815122917/http://luanotes.com/posts/how-to-install-back-up-and-restore-postgresql)
   * MySQL
   * MSSQL
 
@@ -112,7 +112,7 @@ Full-stack web developer is who works familiar with both front-end and back-end,
 
 ## Best Resources
 
-- [Clean Code](http://luanotes.com/posts/book-review-clean-code-robert-c-martin-series): A Handbook of Agile Software Craftsmanship
+- [Clean Code](https://web.archive.org/web/20170808061926/http://luanotes.com/posts/book-review-clean-code-robert-c-martin-series): A Handbook of Agile Software Craftsmanship
 
 - [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670): A Practical Handbook of Software Construction
 
